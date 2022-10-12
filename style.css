@@ -19,7 +19,7 @@ table{
 }
 
 td{
-  border: 3px solid black;
+  border: 3px solid rgb(88, 24, 69);
   font-family: Verdana, Sans-Serif;
   text-align: center;
   color: black;
@@ -27,7 +27,7 @@ td{
 }
 
 th{
-  border: 3px solid black;
+  border: 3px solid rgb(88, 24, 69);
   font-family: Verdana, Sans-Serif;
   text-align: center;
   color: black;
